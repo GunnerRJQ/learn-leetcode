@@ -1,24 +1,38 @@
-package com.rjq.problem.p192;
+package com.rjq.problem.p198;
 
-//Write a bash script to calculate the frequency of each word in a text file words.txt.
+//You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security system connected and it will automatically contact the police if two adjacent houses were broken into on the same night.
 //
-//        For simplicity sake, you may assume:
+//        Given a list of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police.
 //
-//        words.txt contains only lowercase characters and space ' ' characters.
-//        Each word must consist of lowercase characters only.
-//        Words are separated by one or more whitespace characters.
-//        Example:
+//        Example 1:
 //
-//        Assume that words.txt has the following content:
+//        Input: [1,2,3,1]
+//        Output: 4
+//        Explanation: Rob house 1 (money = 1) and then rob house 3 (money = 3).
+//        Total amount you can rob = 1 + 3 = 4.
+//        Example 2:
 //
-//        the day is sunny the the
-//        the sunny is is
-//        Your script should output the following, sorted by descending frequency:
-//
-//        the 4
-//        is 3
-//        sunny 2
-//        day 1
+//        Input: [2,7,9,3,1]
+//        Output: 12
+//        Explanation: Rob house 1 (money = 2), rob house 3 (money = 9) and rob house 5 (money = 1).
+//        Total amount you can rob = 2 + 9 + 1 = 12.
 public class Solution {
+    public int rob(int[] nums) {
+        if (nums.length == 0) {
+            return 0;
+        }
+
+        int result = 0;
+        //TODO rjq 2018/6/26
+
+        return result;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = new int[]{2, 7, 9, 3, 1};
+//        int[] nums = new int[]{1, 2, 3, 1};
+        Solution s = new Solution();
+        int rob = s.rob(nums);
+        System.out.println(rob);
+    }
 }
-    

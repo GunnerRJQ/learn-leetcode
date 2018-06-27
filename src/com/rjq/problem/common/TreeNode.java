@@ -1,7 +1,11 @@
 package com.rjq.problem.common;
 
-/**
- * @author renjianqing
- */
 public class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode(int x) {
+        val = x;
+    }
 }
