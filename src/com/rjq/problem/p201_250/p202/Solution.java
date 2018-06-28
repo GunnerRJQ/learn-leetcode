@@ -1,4 +1,4 @@
-package com.rjq.problem.p202;
+package com.rjq.problem.p201_250.p202;
 
 import java.util.HashSet;
 import java.util.Set;

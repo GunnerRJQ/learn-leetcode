@@ -1,4 +1,4 @@
-package com.rjq.problem.p190;
+package com.rjq.problem.p151_200.p190;
 
 //Reverse bits of a given 32 bits unsigned integer.
 //

@@ -1,4 +1,4 @@
-package com.rjq.problem.p191;
+package com.rjq.problem.p151_200.p191;
 
 //Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).
 //

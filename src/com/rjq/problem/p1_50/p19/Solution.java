@@ -1,4 +1,4 @@
-package com.rjq.problem.p19;
+package com.rjq.problem.p1_50.p19;
 
 import com.rjq.problem.common.ListNode;
 

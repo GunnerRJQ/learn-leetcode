@@ -1,4 +1,4 @@
-package com.rjq.problem.p263;
+package com.rjq.problem.p251_300.p263;
 
 public class Solution {
     public boolean isUgly(int num) {

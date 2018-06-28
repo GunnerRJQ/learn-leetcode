@@ -1,4 +1,4 @@
-package com.rjq.problem.p204;
+package com.rjq.problem.p201_250.p204;
 
 import java.util.HashMap;
 

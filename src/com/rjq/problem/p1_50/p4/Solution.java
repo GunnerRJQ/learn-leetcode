@@ -1,4 +1,4 @@
-package com.rjq.problem.p4;
+package com.rjq.problem.p1_50.p4;
 
 public class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

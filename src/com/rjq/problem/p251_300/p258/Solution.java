@@ -1,4 +1,4 @@
-package com.rjq.problem.p258;
+package com.rjq.problem.p251_300.p258;
 
 public class Solution {
     public int addDigits(int num) {
