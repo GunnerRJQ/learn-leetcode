@@ -6,6 +6,9 @@ import java.util.Queue;
 public final class TreeBuilder {
 
     /**
+     * !!!和LeetCode构建的树好像不大一样!!!
+     * [7,0,null,-1,-6,null,1,null,null,-7] 根节点7右子树为null,后续数组中就再无后续子节点存储
+     *
      * 按数组构建二叉树
      * 如:[3,9,20,null,null,15,7]
      *  3
