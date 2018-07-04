@@ -1,6 +1,6 @@
 package com.rjq.problem.p101_150.p108;
 
-import com.rjq.problem.common.TreeNode;
+import com.rjq.problem.common.model.TreeNode;
 
 public class Solution {
     public TreeNode sortedArrayToBST(int[] nums) {

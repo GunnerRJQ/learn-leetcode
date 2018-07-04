@@ -1,7 +1,7 @@
 package com.rjq.problem.p101_150.p112;
 
-import com.rjq.problem.common.TreeBuilder;
-import com.rjq.problem.common.TreeNode;
+import com.rjq.problem.common.util.TreeBuilder;
+import com.rjq.problem.common.model.TreeNode;
 
 public class Solution {
     public boolean hasPathSum(TreeNode root, int sum) {

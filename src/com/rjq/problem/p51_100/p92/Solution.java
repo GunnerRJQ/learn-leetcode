@@ -1,6 +1,6 @@
 package com.rjq.problem.p51_100.p92;
 
-import com.rjq.problem.common.ListNode;
+import com.rjq.problem.common.model.ListNode;
 
 public class Solution {
     public ListNode reverseBetween(ListNode head, int m, int n) {

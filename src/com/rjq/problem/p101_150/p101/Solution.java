@@ -1,6 +1,6 @@
 package com.rjq.problem.p101_150.p101;
 
-import com.rjq.problem.common.TreeNode;
+import com.rjq.problem.common.model.TreeNode;
 
 public class Solution {
     public boolean isSymmetric(TreeNode root) {

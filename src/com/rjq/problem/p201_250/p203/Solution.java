@@ -1,6 +1,6 @@
 package com.rjq.problem.p201_250.p203;
 
-import com.rjq.problem.common.ListNode;
+import com.rjq.problem.common.model.ListNode;
 
 public class Solution {
     public ListNode removeElements(ListNode head, int val) {

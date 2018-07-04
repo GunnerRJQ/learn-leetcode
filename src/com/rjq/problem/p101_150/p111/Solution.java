@@ -3,8 +3,8 @@ package com.rjq.problem.p101_150.p111;
 import java.util.LinkedList;
 import java.util.Queue;
 
-import com.rjq.problem.common.TreeBuilder;
-import com.rjq.problem.common.TreeNode;
+import com.rjq.problem.common.util.TreeBuilder;
+import com.rjq.problem.common.model.TreeNode;
 
 public class Solution {
     public int minDepth(TreeNode root) {

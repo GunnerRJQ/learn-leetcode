@@ -1,6 +1,6 @@
 package com.rjq.problem.p1_50.p19;
 
-import com.rjq.problem.common.ListNode;
+import com.rjq.problem.common.model.ListNode;
 
 public class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {

@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-import com.rjq.problem.common.TreeNode;
+import com.rjq.problem.common.model.TreeNode;
 
 
 public class Solution {

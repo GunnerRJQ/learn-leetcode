@@ -1,4 +1,4 @@
-package com.rjq.problem.common;
+package com.rjq.problem.common.model;
 
 public class ListNode {
     public int val;

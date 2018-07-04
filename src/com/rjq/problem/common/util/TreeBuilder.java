@@ -1,7 +1,9 @@
-package com.rjq.problem.common;
+package com.rjq.problem.common.util;
 
 import java.util.LinkedList;
 import java.util.Queue;
+
+import com.rjq.problem.common.model.TreeNode;
 
 public final class TreeBuilder {
 

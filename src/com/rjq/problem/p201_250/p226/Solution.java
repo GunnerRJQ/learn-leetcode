@@ -1,6 +1,6 @@
 package com.rjq.problem.p201_250.p226;
 
-import com.rjq.problem.common.TreeNode;
+import com.rjq.problem.common.model.TreeNode;
 
 public class Solution {
     public TreeNode invertTree(TreeNode root) {
